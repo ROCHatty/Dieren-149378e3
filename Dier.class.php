@@ -2,13 +2,13 @@
 
 class Dier
 {
-    public function eet() {
+    public function eet()
+    {
         echo "lekker!" . PHP_EOL;
     }
 
-    public function slaap() {
+    public function slaap()
+    {
         echo "ZZZZzzzzz...." . PHP_EOL;
     }
 }
-
-?>
